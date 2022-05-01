@@ -48,18 +48,3 @@ h1{
     align-items: center;
 }
 
-
-/* icons */
-.icons-home{
-    width: 25px;
-    height: 25px;
-    background: grey;
-    border: 3px solid grey;
-}
-
-
-.icons-home:hover{
-    background: #525151;
-    border: 3px solid  #525151;
-}
-/* end icons */
